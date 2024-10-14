@@ -25,7 +25,10 @@ Deep convolutional neural networks have achieved state-of-the-art performance fo
 ### Dependencies
 * cuda 10.0
 * cudnn 7.3.1
-* Python 3.5
+
+* Python 3.7
+* pip 24.0
+
 * numpy 1.15.0
 * openCV 4.3.0.38
 * keras 2.3.1
@@ -42,8 +45,7 @@ The sun glare image dataset can be downloaded from [here](https://bigmms.github.
 Pre-trained models can be downloaded from [google drive](https://drive.google.com/file/d/1rYJrxFW3s2qh94vELcxQmlU09GR_c7LM/view) or [baidu drive]( https://pan.baidu.com/s/1VJtkwSqYG9WIjNuvv0PSvQ) (password: qpuf).
 
 ### It was tested and runs under the following OSs:
-* Windows 10
-* Ubuntu 16.04
+* Ubuntu 18.04
 
 Might work under others, but didn't get to test any other OSs just yet.
 
